@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+    <!-- "Bloggistic" as a single word, smaller, with no spacing -->
+
+    <!-- "Blog" in orange -->
+    <text x="10" y="55" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" fill="#FF3B1D">
+        Blog
+    </text>
+
+    <!-- "gistic" in white -->
+    <text x="100" y="55" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF">
+        gistic
+    </text>
+</svg>
